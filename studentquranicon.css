@@ -34,9 +34,12 @@
   .icon-upload:before {
     content: "\f093";
   }
-  .icon-trash:before {
-    content: "\f1f8";
-  }
+  
   .icon-angry2:before {
     content: "\e9ee";
   }
+  .icon-trash{
+    width: 0px !important;
+    height: 0px !important;
+    display: none !important;
+}
